@@ -8,7 +8,7 @@ with [Egon Tripodi](http://www.egontripodi.com)
 
 ## Contents
 
-This repo contains supplementary files from our paper:
+This repo contains the following supplementary files:
 
 - [Online appendix, including instructions for subjects](https://github.com/chrjmeyer/SortingIntoIncentives/blob/master/appendix/MeyerTripodi_SortingIntoIncentives_OnlineApp.pdf)
 
