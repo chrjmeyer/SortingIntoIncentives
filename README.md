@@ -8,8 +8,8 @@ with [Egon Tripodi](http://www.egontripodi.com)
 
 ## Contents
 
-This repo contains the following supplementary files:
+This repo contains the following files:
 
-- [Online appendix, including instructions for subjects](https://github.com/chrjmeyer/SortingIntoIncentives/blob/master/appendix/MeyerTripodi_SortingIntoIncentives_OnlineApp.pdf)
+- [Current draft with online appendidx](https://github.com/chrjmeyer/SortingIntoIncentives/blob/master/draft/MeyerTripodi_SortingIntoIncentives.pdf)
 
-Data and program coming soon.
+Data and program code coming soon.
